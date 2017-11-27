@@ -3,7 +3,7 @@ CSE 527 Computer Vision - Fall 2017 - Stony Brook University
 
 All implementations are written in Python 2.7 using OpenCV.
 
-Gaussian Pyramids & Blending: contains an implementation of kernel application in the frequency domain as well as Laplacian Pyramid blending of two images.
+Gaussian Pyramids & Blending: contains an implementation of kernel deconvolution in the frequency domain as well as Laplacian Pyramid blending of two images.
 
 Image Stitching & Panoramas: uses RANSAC to fit homography and affine transformations for image matching and panoramic stitching.
 
